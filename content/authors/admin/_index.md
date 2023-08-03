@@ -36,7 +36,7 @@ education:
       institution: Boston College
       year: 2018-
     - course: M.S., Quantitative Economics
-      institution: Massachusetts Institute of Technology
+      institution: Indian Statistical Institute, Delhi 
       year: 2017
     - course: B. Tech, Civil Engineering
       institution: National Institute of Technology, Trichy
