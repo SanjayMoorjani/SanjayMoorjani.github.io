@@ -4,6 +4,12 @@ title:
 date: 2022-10-24
 type: landing
 sections:
+  - block: about.biography
+    id: about
+    content:
+      title: 
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   - block: experience
     content:
       title: Experience
@@ -39,12 +45,6 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: about.biography
-    id: about
-    content:
-      title: 
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
   - block: portfolio
     id: projects
     content:
