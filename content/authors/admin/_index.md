@@ -79,5 +79,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a sixth-year Ph.D. Candidate in Economics at Boston College. My research primarily concerns the sources of business cycles in the U.S. economy and the role of labor market frictions in the propagation mechanism. I approach these questions using a combination of time-series econometrics and dynamic stochastic general equilibrium (DSGE) models.
 {style="text-align: justify;"}
