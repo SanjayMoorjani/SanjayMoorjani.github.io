@@ -34,10 +34,10 @@ education:
   courses:
     - course: Ph.D. Candidate
       institution: Boston College
-      year: 2012
+      year: 2018-
     - course: M.S., Quantitative Economics
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2017
     - course: B. Tech, Civil Engineering
       institution: National Institute of Technology, Trichy
       year: 2013
