@@ -18,8 +18,8 @@ role: Ph.D. Candidate at Boston College
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Boston College
+    url: https://www.bc.edu/bc-web/schools/mcas/departments/economics.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics and Monetary Economics.
