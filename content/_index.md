@@ -82,8 +82,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Ph.D. Candidate 
+          company: Boston College
           company_url: ''
           company_logo: org-x
           location: California
