@@ -48,7 +48,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -62,8 +62,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Macroeconomics
+          tag: Macroeconomics
         - name: Other
           tag: Demo
     design:
