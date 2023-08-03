@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Sanjay Moorjani
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Sanjay
+last_name: Moorjani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate at Boston College
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,26 +22,25 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Macroeconomics and Monetary Economics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Business Cycles
+  - Monetary Economics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Ph.D. Candidate
+      institution: Boston College
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: M.S., Quantitative Economics
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B. Tech, Civil Engineering
+      institution: National Institute of Technology, Trichy
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
