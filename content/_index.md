@@ -25,5 +25,14 @@ sections:
     design:
       columns: '2'
       view: card
-
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
 ---
