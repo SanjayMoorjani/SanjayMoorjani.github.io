@@ -25,7 +25,6 @@ image:
 
 links:
   - icon: page
-    icon_pack: fab
     name: Syllabus
     url: ''
 ---
