@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
 type: landing
 sections:
@@ -72,6 +72,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: teaching
+    id: teaching
+    content:
+      title: Teaching
   - block: contact
     id: contact
     content:
