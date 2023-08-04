@@ -1,5 +1,5 @@
 ---
-title: ECON 2202 Macroeconomic Theory (Undergraduate) | Fall 2023
+title: ECON 2202 Macroeconomic Theory (Undergraduate)
 
 location: Boston College
 
