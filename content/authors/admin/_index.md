@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Contact: moorjani@bc.edu
+role: Contact| moorjani@bc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
