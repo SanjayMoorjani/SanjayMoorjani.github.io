@@ -9,7 +9,7 @@ date: '2030-06-01T13:00:00Z'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-08-29'
+date: '2023-08-29T13:00:00Z'
 # date_end: '2030-06-01'
 # all_day: false
 
