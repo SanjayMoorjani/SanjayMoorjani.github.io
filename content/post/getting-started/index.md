@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Business Cycles Dissected
+subtitle: This paper proposes a novel identification strategy to study the relative role of aggregate supply and demand shocks in driving business cycles. By decomposing business cycle fluctuations of real GDP into its long-run and short-run counterparts, and based on conditional correlations of real GDP, inflation, total factor productivity (TFP), and interest rates, I identify them as long-run supply and demand shocks, respectively. Both shocks individually account for significant business cycle volatility and lead to the comovement of relevant macroeconomic variables. To further study the underlying propagation mechanism, I estimate a benchmark medium-scale DSGE model using the identified shocks. The results emphasize the importance of nominal wage frictions in the amplification and persistence of business cycles.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: This paper proposes a novel identification strategy to study the relative role of aggregate supply and demand shocks in driving business cycles. By decomposing business cycle fluctuations of real GDP into its long-run and short-run counterparts, and based on conditional correlations of real GDP, inflation, total factor productivity (TFP), and interest rates, I identify them as long-run supply and demand shocks, respectively. Both shocks individually account for significant business cycle volatility and lead to the comovement of relevant macroeconomic variables. To further study the underlying propagation mechanism, I estimate a benchmark medium-scale DSGE model using the identified shocks. The results emphasize the importance of nominal wage frictions in the amplification and persistence of business cycles.
 
 # Link this post with a project
 projects: []
