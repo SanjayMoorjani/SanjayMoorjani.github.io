@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Strategic Connections in a Hierarchical Society: Wedge Between Observed and Fundamental Valuations"
 authors:
 - admin
 - Anindya S. Chakrabarti
