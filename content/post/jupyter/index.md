@@ -20,10 +20,10 @@ url_code: http://example.org
 url_slides: http://example.org
 
 # Date published
-date: '2023-07-01'
+date: '2021-01-01'
 
 # Date updated
-lastmod: '2023-08-01'
+lastmod: '2021-01-01'
 
 # Is this an unpublished draft?
 draft: false
