@@ -3,6 +3,7 @@ title: ECON 2202 Macroeconomic Theory (Undergraduate) | Fall 2023
 
 location: Boston College
 
+summary: Fall 2023
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: ''
