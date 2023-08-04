@@ -11,11 +11,7 @@ summary: In an interconnected society, social networks grow through formation of
 projects: []
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: http://example.org
-url_slides: http://example.org
+url_pdf: https://link.springer.com/article/10.1007/s13235-020-00374-9
 
 # Date published
 date: '2021-01-01'
