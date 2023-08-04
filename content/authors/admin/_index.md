@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Contact| moorjani@bc.edu
+role: Contact - moorjani@bc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Boston College
+  - name: Ph.D. Candidate at Boston College
     url: https://www.bc.edu/bc-web/schools/mcas/departments/economics.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,9 +47,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:moorjani@bc.edu
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
