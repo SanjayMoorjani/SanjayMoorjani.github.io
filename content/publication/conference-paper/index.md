@@ -1,9 +1,5 @@
 ---
 title: Business Cycles Dissected
-subtitle: This paper proposes a novel identification strategy to study the relative role of aggregate supply and demand shocks in driving business cycles. By decomposing business cycle fluctuations of real GDP into its long-run and short-run counterparts, and based on conditional correlations of real GDP, inflation, total factor productivity (TFP), and interest rates, I identify them as long-run supply and demand shocks, respectively. Both shocks individually account for significant business cycle volatility and lead to the comovement of relevant macroeconomic variables. To further study the underlying propagation mechanism, I estimate a benchmark medium-scale DSGE model using the identified shocks. The results emphasize the importance of nominal wage frictions in the amplification and persistence of business cycles.
-
-# Summary for listings and search engines
-summary: This paper proposes a novel identification strategy to study the relative role of aggregate supply and demand shocks in driving business cycles. By decomposing business cycle fluctuations of real GDP into its long-run and short-run counterparts, and based on conditional correlations of real GDP, inflation, total factor productivity (TFP), and interest rates, I identify them as long-run supply and demand shocks, respectively. Both shocks individually account for significant business cycle volatility and lead to the comovement of relevant macroeconomic variables. To further study the underlying propagation mechanism, I estimate a benchmark medium-scale DSGE model using the identified shocks. The results emphasize the importance of nominal wage frictions in the amplification and persistence of business cycles.
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,10 +29,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper proposes a novel identification strategy to study the relative role of aggregate supply and demand shocks in driving business cycles. By decomposing business cycle fluctuations of real GDP into its long-run and short-run counterparts, and based on conditional correlations of real GDP, inflation, total factor productivity (TFP), and interest rates, I identify them as long-run supply and demand shocks, respectively. Both shocks individually account for significant business cycle volatility and lead to the comovement of relevant macroeconomic variables. To further study the underlying propagation mechanism, I estimate a benchmark medium-scale DSGE model using the identified shocks. The results emphasize the importance of nominal wage frictions in the amplification and persistence of business cycles.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper proposes a novel identification strategy to study the relative role of aggregate supply and demand shocks in driving business cycles. By decomposing business cycle fluctuations of real GDP into its long-run and short-run counterparts, and based on conditional correlations of real GDP, inflation, total factor productivity (TFP), and interest rates, I identify them as long-run supply and demand shocks, respectively. Both shocks individually account for significant business cycle volatility and lead to the comovement of relevant macroeconomic variables. To further study the underlying propagation mechanism, I estimate a benchmark medium-scale DSGE model using the identified shocks. The results emphasize the importance of nominal wage frictions in the amplification and persistence of business cycles.
 
 tags: []
 
@@ -51,11 +47,7 @@ featured: true
 url_pdf: ''
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
