@@ -45,7 +45,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-    - block: portfolio
+- block: portfolio
     id: projects
     content:
       title: Research
