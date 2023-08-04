@@ -11,7 +11,6 @@ projects: []
 
 links:
 url_pdf: https://link.springer.com/article/10.1007/s13235-020-00374-9
-url_journal: https://link.springer.com/article/10.1007/s13235-020-00374-9
 
 # Date published
 date: '2021-01-01'
