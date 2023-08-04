@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate at Boston College
+role: Contact: moorjani@bc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
