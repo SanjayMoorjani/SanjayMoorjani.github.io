@@ -6,12 +6,12 @@ location: Boston College
 summary: Fall 2023
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
-date_end: ''
-all_day: false
+# date: ''
+# date_end: ''
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+# publishDate: ''
 
 authors: []
 tags: []
@@ -27,20 +27,5 @@ links:
   - icon: page
     icon_pack: fab
     name: Syllabus
-    url: https://twitter.com/georgecushen
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+    url: ''
 ---
