@@ -34,7 +34,7 @@ education:
   courses:
     - course: Ph.D. Candidate
       institution: Boston College
-      year: 2018 - 2024 (expected)
+      year: 2018 - Present
     - course: M.S., Quantitative Economics
       institution: Indian Statistical Institute, Delhi 
       year: 2017
