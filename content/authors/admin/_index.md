@@ -8,7 +8,7 @@ last_name: Moorjani
 
 # Status emoji
 status:
-  icon: 
+  icon: twitter
 
 # Is this the primary user of the site?
 superuser: true
