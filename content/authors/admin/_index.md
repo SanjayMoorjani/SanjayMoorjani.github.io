@@ -60,5 +60,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a sixth-year Ph.D. Candidate in Economics at Boston College. My research primarily concerns the sources of business cycles in the U.S. economy and the role of labor market frictions in the propagation mechanism. I approach these questions using a combination of time-series econometrics and dynamic stochastic general equilibrium (DSGE) models.
+I am a Ph.D. Candidate in Economics at Boston College. My research primarily concerns the sources of business cycles in the U.S. economy and the role of labor market frictions in the propagation mechanism. I approach these questions using a combination of time-series econometrics and dynamic stochastic general equilibrium (DSGE) models.
 {style="text-align: justify;"}
