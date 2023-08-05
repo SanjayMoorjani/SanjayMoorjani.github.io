@@ -1,5 +1,5 @@
 ---
-title: "Business Cycles Dissected"
+title: "Dissecting Business Cycles"
 authors:
 - admin
 date: "2023-06-01"
