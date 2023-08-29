@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: uploads/resume.pdf
 url_code: ''
 url_slides: ''
 
