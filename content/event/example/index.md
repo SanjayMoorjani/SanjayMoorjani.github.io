@@ -19,5 +19,5 @@ publishDate: '2017-01-01'
 links:
   - icon: page
     name: Syllabus
-    url: ''
+    url:  uploads/Syllabus ECON220206 Macroeconomi Theory Fall 2023.pdf
 ---
