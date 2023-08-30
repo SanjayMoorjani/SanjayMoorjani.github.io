@@ -17,5 +17,5 @@ publishDate: '2023-06-25T10:00:00Z'
 links:
   - icon: page
     name: Syllabus
-    url: uploads/INTL3372 International Finance (Session 2) (1).pdf
+    url: uploads/INTL3372 International Finance (Session 2).pdf
 ---
