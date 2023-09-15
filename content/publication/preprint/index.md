@@ -31,7 +31,7 @@ featured: false
 links:
 url_pdf: uploads/Dissecting_Business_Cycles.pdf
 url_code: ''
-url_slides: ''
+url_slides: uploads/Dissecting Business Cycles (Slides).pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
