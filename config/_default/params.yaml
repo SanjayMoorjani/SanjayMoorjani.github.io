@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: ''
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
@@ -77,8 +77,6 @@ features:
   avatar:
     gravatar: false
     shape: circle
-    height:150px;
-    width:150px;
   comment:
     provider: ''
     disqus:
