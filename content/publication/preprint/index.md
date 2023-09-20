@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: uploads/Dissecting Business Cycles (JMP).pdf
+url_pdf: uploads/Dissecting_Business_Cycles (JMP).pdf
 url_code: ''
 url_slides: uploads/Dissecting Business Cycles (Slides).pdf
 
