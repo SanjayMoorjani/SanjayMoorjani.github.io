@@ -60,7 +60,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Economics at Boston College. My research primarily concerns the sources of business cycles within the U.S. economy and the role of labor market frictions in the propagation mechanism. I approach these questions using a combination of time-series econometrics and dynamic stochastic general equilibrium (DSGE) models.
+I am a Ph.D. Candidate in Economics at Boston College. My research focuses on macroeconomics and time-series econometrics, with a special interest in understanding cyclical fluctuations.
 
 I will be on the job market in the academic year 2023-2024 and am available for interviews at the ASSA meetings. 
 {style="text-align: justify;"}
