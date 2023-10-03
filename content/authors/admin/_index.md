@@ -62,5 +62,5 @@ highlight_name: true
 
 I am a Ph.D. Candidate in Economics at Boston College. My research focuses on macroeconomics and time-series econometrics, with a special interest in understanding cyclical fluctuations.
 
-I will be on the job market in the academic year 2023-2024 and am available for interviews at the ASSA meetings. 
+I will be on the job market in the academic year 2023-2024 and available for interviews at the ASSA meetings. 
 {style="text-align: justify;"}
