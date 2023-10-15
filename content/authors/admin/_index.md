@@ -62,4 +62,6 @@ highlight_name: true
 
 I am a Ph.D. Candidate in Economics at Boston College. My research focuses on macroeconomics and time-series econometrics, with a special interest in understanding cyclical fluctuations.
 
+I am on the 2023/2024 job market and I will be available for interviews at the AEA meetings.
+
 {style="text-align: justify;"}
