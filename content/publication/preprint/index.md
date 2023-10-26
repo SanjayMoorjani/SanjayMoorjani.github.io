@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Job Market Paper*"
+publication: "**"
 publication_short: ""
 
 abstract: This paper introduces a novel identification strategy to examine the relative role of aggregate supply and demand shocks in driving business cycles. It dissects real GDP fluctuations into long-run and short-run components, identifying them as long-run supply and short-run demand shocks based on conditional correlations of macro variables. Both shocks contribute significantly to business cycle volatility and drive the co-movements of relevant macroeconomic variables. Additionally, the study identifies a second category of long-run supply shocks that do not impact business cycles, revealing substantial normative and policy implications for benchmark DSGE models estimated in a full information setting. By employing theoretical insights and estimation of DSGE models by matching the dynamic causal effects of the identified business cycle shocks, the paper advocates for parameter estimation in a limited information setting.
