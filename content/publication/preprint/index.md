@@ -2,8 +2,8 @@
 title: "Dissecting Business Cycles"
 authors:
 - admin
-date: "2023-06-01"
-doi: ""
+date: "2024-08-24"
+doi: "Job Market Paper"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,11 +18,11 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper introduces a novel identification strategy to examine the relative role of aggregate supply and demand shocks in driving business cycles. It dissects real GDP fluctuations into long-run and short-run components, identifying them as long-run supply and short-run demand shocks based on conditional correlations of macro variables. Both shocks contribute significantly to business cycle volatility and drive the co-movements of relevant macroeconomic variables. Additionally, the study identifies a second category of long-run supply shocks that do not impact business cycles, revealing substantial normative and policy implications for benchmark DSGE models estimated in a full information setting. By employing theoretical insights and estimation of DSGE models by matching the dynamic causal effects of the identified business cycle shocks, the paper advocates for parameter estimation in a limited information setting.
+abstract: This paper proposes decomposing macroeconomic fluctuations into three components based on their contributions to fluctuations of different frequencies. A first component explains business cycle fluctuations but has no long-run effect; a second component also influences business cycles but may have a long-run effect; a third component has only long-run effects. The decomposition has several desirable properties. The two business cycle components jointly explain 99\% of business cycle fluctuations and deliver comovements consistent with a structural interpretation as demand and supply shocks, respectively. The presence of long-run, non-business cycle fluctuations biases full-information estimation of business cycle models, however, distorting conclusions about the sources of business cycles. Estimating a model to match only the business cycles shocks resolves this issue and gives more plausible parameter estimates.
 
 
 # Summary. An optional shortened abstract.
-summary: This paper introduces a novel identification strategy to examine the relative role of aggregate supply and demand shocks in driving business cycles. It dissects real GDP fluctuations into long-run and short-run components, identifying them as long-run supply and short-run demand shocks based on conditional correlations of macro variables. Both shocks contribute significantly to business cycle volatility and drive the co-movements of relevant macroeconomic variables. Additionally, the study identifies a second category of long-run supply shocks that do not impact business cycles, revealing substantial normative and policy implications for benchmark DSGE models estimated in a full information setting. By employing theoretical insights and estimation of DSGE models by matching the dynamic causal effects of the identified business cycle shocks, the paper advocates for parameter estimation in a limited information setting.
+summary: This paper proposes decomposing macroeconomic fluctuations into three components based on their contributions to fluctuations of different frequencies. A first component explains business cycle fluctuations but has no long-run effect; a second component also influences business cycles but may have a long-run effect; a third component has only long-run effects. The decomposition has several desirable properties. The two business cycle components jointly explain 99\% of business cycle fluctuations and deliver comovements consistent with a structural interpretation as demand and supply shocks, respectively. The presence of long-run, non-business cycle fluctuations biases full-information estimation of business cycle models, however, distorting conclusions about the sources of business cycles. Estimating a model to match only the business cycles shocks resolves this issue and gives more plausible parameter estimates.
 
 tags:
 - Source Themes
