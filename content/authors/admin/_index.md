@@ -26,7 +26,7 @@ bio: My research interests include Macroeconomics and Monetary Economics.
 
 # Interests to show in About widget
 interests:
-  - Business Cycles
+  - Macroeconomics
   - Monetary Economics
 
 # Education to show in About widget
