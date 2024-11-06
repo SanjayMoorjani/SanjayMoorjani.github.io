@@ -1,5 +1,5 @@
 ---
-title: "Dissecting Business Cycles"
+title: "Missing Internal Propagation in Macro Models"
 authors:
 - admin
 date: "2024-08-24"
@@ -15,14 +15,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: "Working Paper"
 publication_short: ""
 
-abstract: This paper proposes decomposing macroeconomic fluctuations into three components based on their contributions to fluctuations of different frequencies. A first component explains business cycle fluctuations but has no long-run effect; a second component also influences business cycles but may have a long-run effect; a third component has only long-run effects. The decomposition has several desirable properties. The two business cycle components jointly explain 99% of business cycle fluctuations and deliver comovements consistent with a structural interpretation as demand and supply shocks, respectively. The presence of long-run, non-business cycle fluctuations biases full-information estimation of business cycle models, however, distorting conclusions about the sources of business cycles. Estimating a model to match only the business cycles shocks resolves this issue and gives more plausible parameter estimates.
+abstract: We study whether the documented shortcomings of medium-scale DSGE models, as highlighted by Beaudry et al. (2020), are due to parameter misspecification or a fundamental lack of underlying endogenous mechanisms. Beaudry et al. (2020) show that the spectral density of `hours worked' exhibits two peaks: one at business cycle frequencies and another at low frequencies. They argue that medium-scale DSGE models, fail to replicate the position and height of the spectral density peak at business cycle frequencies, attributing this failure to weak endogenous mechanisms and the inherent properties of AR(1) shocks.
 
 
 # Summary. An optional shortened abstract.
-summary: This paper proposes decomposing macroeconomic fluctuations into three components based on their contributions to fluctuations of different frequencies. A first component explains business cycle fluctuations but has no long-run effect; a second component also influences business cycles but may have a long-run effect; a third component has only long-run effects. The decomposition has several desirable properties. The two business cycle components jointly explain 99% of business cycle fluctuations and deliver comovements consistent with a structural interpretation as demand and supply shocks, respectively. The presence of long-run, non-business cycle fluctuations biases full-information estimation of business cycle models, however, distorting conclusions about the sources of business cycles. Estimating a model to match only the business cycles shocks resolves this issue and gives more plausible parameter estimates.
+summary: We study whether the documented shortcomings of medium-scale DSGE models, as highlighted by Beaudry et al. (2020), are due to parameter misspecification or a fundamental lack of underlying endogenous mechanisms. Beaudry et al. (2020) show that the spectral density of `hours worked' exhibits two peaks: one at business cycle frequencies and another at low frequencies. They argue that medium-scale DSGE models, fail to replicate the position and height of the spectral density peak at business cycle frequencies, attributing this failure to weak endogenous mechanisms and the inherent properties of AR(1) shocks.
 
 tags:
 - Source Themes
