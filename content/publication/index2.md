@@ -30,9 +30,9 @@ tags:
 featured: false
 
 links:
-url_pdf: uploads/Dissecting_Business_Cycles (JMP).pdf
+url_pdf: ''
 url_code: ''
-url_slides: uploads/Dissecting Business Cycles (Slides).pdf
+url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
