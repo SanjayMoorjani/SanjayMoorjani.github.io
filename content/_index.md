@@ -26,21 +26,6 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: project
-    content:
-      title: Research
-      # text: |-
-        # {{% callout note %}}
-        # Quickly discover relevant content by [filtering publications](./project/).
-        # {{% /callout %}}
-      filters:
-        folders:
-          - project
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     id: teaching
     content:
       title: Teaching
