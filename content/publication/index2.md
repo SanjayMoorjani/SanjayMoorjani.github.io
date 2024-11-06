@@ -19,11 +19,11 @@ publication_types: ["3"]
 publication: "Draft Available on Request"
 publication_short: ""
 
-abstract:  We study whether the documented shortcomings of medium-scale DSGE models, as highlighted by Beaudry et al. (2020), are due to parameter misspecification or a fundamental lack of underlying endogenous mechanisms. Beaudry et al. (2020) show that the spectral density of ‘hours worked’ exhibits two peaks: one at business cycle frequencies and another at low frequencies. They argue that medium-scale DSGE models, fail to replicate the position and height of the spectral density peak at business cycle frequencies, attributing this failure to weak endogenous mechanisms and the inherent properties of AR(1) shocks.
+abstract:  We study whether the documented shortcomings of medium-scale DSGE models, as highlighted by Beaudry et al. (2020), are due to parameter misspecification or a fundamental lack of underlying endogenous mechanisms. Beaudry et al. (2020) show that the spectral density of ‘hours worked’ exhibits two peaks one at business cycle frequencies and another at low frequencies. They argue that medium-scale DSGE models, fail to replicate the position and height of the spectral density peak at business cycle frequencies, attributing this failure to weak endogenous mechanisms and the inherent properties of AR(1) shocks.
 
 
 # Summary. An optional shortened abstract.
-summary: We study whether the documented shortcomings of medium-scale DSGE models, as highlighted by Beaudry et al. (2020), are due to parameter misspecification or a fundamental lack of underlying endogenous mechanisms. Beaudry et al. (2020) show that the spectral density of ‘hours worked’ exhibits two peaks: one at business cycle frequencies and another at low frequencies. They argue that medium-scale DSGE models, fail to replicate the position and height of the spectral density peak at business cycle frequencies, attributing this failure to weak endogenous mechanisms and the inherent properties of AR(1) shocks.
+summary: We study whether the documented shortcomings of medium-scale DSGE models, as highlighted by Beaudry et al. (2020), are due to parameter misspecification or a fundamental lack of underlying endogenous mechanisms. Beaudry et al. (2020) show that the spectral density of ‘hours worked’ exhibits two peaks one at business cycle frequencies and another at low frequencies. They argue that medium-scale DSGE models, fail to replicate the position and height of the spectral density peak at business cycle frequencies, attributing this failure to weak endogenous mechanisms and the inherent properties of AR(1) shocks.
 
 tags:
 - Source Themes
