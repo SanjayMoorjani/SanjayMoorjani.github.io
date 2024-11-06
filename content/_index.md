@@ -31,11 +31,11 @@ sections:
       title: Research
       # text: |-
         # {{% callout note %}}
-        # Quickly discover relevant content by [filtering publications](./publication/).
+        # Quickly discover relevant content by [filtering publications](./project/).
         # {{% /callout %}}
       filters:
         folders:
-          - example
+          - project
         exclude_featured: true
     design:
       columns: '2'
