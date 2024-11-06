@@ -26,7 +26,7 @@ summary: This paper proposes decomposing macroeconomic fluctuations into three c
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: uploads/Dissecting_Business_Cycles (JMP).pdf
