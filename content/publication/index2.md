@@ -2,6 +2,7 @@
 title: "Missing Internal Propagation in Macro Models"
 authors:
 - admin
+- Anindya S. Chakrabarti
 date: "2024-08-24"
 doi: ""
 
