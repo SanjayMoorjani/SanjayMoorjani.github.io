@@ -21,6 +21,11 @@ organizations:
   - name: Hamilton College
     url: https://www.hamilton.edu/academics/departments/faculty?dept=economics
 
+# Contact
+contact:
+  - name: moorjani@bc.edu
+    url: https://www.hamilton.edu/academics/departments/faculty?dept=economics
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics and Monetary Economics.
 
