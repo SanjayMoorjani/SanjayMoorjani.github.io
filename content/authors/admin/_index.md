@@ -14,12 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Contact - moorjani@bc.edu
+role: Visiting Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Visiting Assistant Professor
-  - Hamilton College
+  - name: Hamilton College
     url: https://www.hamilton.edu/academics/departments/faculty?dept=economics
 
 # Short bio (displayed in user profile at end of posts)
