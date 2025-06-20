@@ -60,7 +60,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-# I am a Ph.D. Candidate in Economics at Boston College. 
-
 I am a macroeconomist with both theoretical and empirical interests, focusing on the identification of business cycle drivers and the role of fiscal and monetary policies in stabilizing recessions.
