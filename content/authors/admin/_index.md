@@ -18,7 +18,7 @@ role: Contact - moorjani@bc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ph.D. Candidate at Boston College
+  - name: Visiting Assistant Professor at Hamilton College
     url: https://www.bc.edu/bc-web/schools/mcas/departments/economics.html
 
 # Short bio (displayed in user profile at end of posts)
