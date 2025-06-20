@@ -18,7 +18,7 @@ role: Contact - moorjani@bc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:Visiting Assistant Professor at Hamilton College
+  - name: Visiting Assistant Professor at Hamilton College
     url: https://www.hamilton.edu/academics/departments/faculty?dept=economics
 
 # Short bio (displayed in user profile at end of posts)
