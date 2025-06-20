@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. Candidate
+    - course: Ph.D. 
       institution: Boston College
-      year: 2018 - Present
+      year: 2025
     - course: M.S., Quantitative Economics
       institution: Indian Statistical Institute, Delhi 
       year: 2017
@@ -61,6 +61,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Economics at Boston College. 
+# I am a Ph.D. Candidate in Economics at Boston College. 
 
 I am a macroeconomist with both theoretical and empirical interests, focusing on the identification of business cycle drivers and the role of fiscal and monetary policies in stabilizing recessions.
