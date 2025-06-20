@@ -19,7 +19,7 @@ role: Contact - moorjani@bc.edu
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Visiting Assistant Professor at Hamilton College
-    url: https://www.bc.edu/bc-web/schools/mcas/departments/economics.html
+    url: [https://www.bc.edu/bc-web/schools/mcas/departments/economics.html](https://www.hamilton.edu/academics/departments/faculty?dept=economics)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics and Monetary Economics.
