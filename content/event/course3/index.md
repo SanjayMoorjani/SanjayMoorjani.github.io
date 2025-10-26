@@ -1,7 +1,7 @@
 ---
 title: ECON 424 Time Series Econometrics using Python
 
-location: Boston College
+location: Hamilton College
 
 summary: Fall 2025
 
