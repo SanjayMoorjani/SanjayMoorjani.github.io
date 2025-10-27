@@ -14,7 +14,7 @@ date: '2026-01-21T13:00:00Z'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-21'
+publishDate: '2025-10-21'
 
 links:
   - icon: page
