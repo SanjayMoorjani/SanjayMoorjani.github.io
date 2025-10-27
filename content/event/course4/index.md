@@ -1,5 +1,5 @@
 ---
-title: ECON 100 Intro to Econ
+title: ECON 100 Introduction to Economics
 
 location: Hamilton College
 
