@@ -12,7 +12,7 @@ summary: Summer 2023
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-06-25T10:00:00Z'
+publishDate: '2024-06-25T10:00:00Z'
 
 links:
   - icon: page
