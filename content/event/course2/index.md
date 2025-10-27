@@ -1,21 +1,23 @@
 ---
-title: INTL 3372 International Finance (Undergraduate)
+title: ECON 2202 Macroeconomic Theory (Undergraduate)
 
 location: Boston College
 
-summary: Summer 2023
+summary: Spring 2025,  Fall 2024, Summer 2024, Spring 2024, Fall 2023
+
+date: '2030-06-01T13:00:00Z'
 
 # Talk start and end times.
-#  End time can optionally be hidden by prefixing the line with `#`.
-# date: '2023-08-29T13:00:00Z'
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2023-08-29T13:00:00Z'
 # date_end: '2030-06-01'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-06-25T10:00:00Z'
+publishDate: '2017-01-01'
 
 links:
   - icon: page
     name: Syllabus
-    url: uploads/INTL3372 International Finance (Session 2).pdf
+    url:  uploads/Syllabus ECON220206 Macroeconomi Theory Fall 2023.pdf
 ---
