@@ -1,5 +1,5 @@
 ---
-title: ECON 2202 Macroeconomic Theory (Undergraduate)
+title: ECON 2202 Macroeconomic Theory 
 
 location: Boston College
 
