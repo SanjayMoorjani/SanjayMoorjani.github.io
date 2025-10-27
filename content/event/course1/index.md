@@ -1,5 +1,5 @@
 ---
-title: INTL 3372 International Finance (Undergraduate)
+title: INTL 3372 International Finance 
 
 location: Boston College
 
