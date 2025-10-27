@@ -5,7 +5,7 @@ location: Hamilton College
 
 summary: Spring 2026
 
-date: '2030-06-01T13:00:00Z'
+date: '2026-01-21T13:00:00Z'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
