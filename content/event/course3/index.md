@@ -1,4 +1,6 @@
 ---
+
+
 title: ECON 424 Time Series Econometrics using Python
 
 location: Hamilton College
