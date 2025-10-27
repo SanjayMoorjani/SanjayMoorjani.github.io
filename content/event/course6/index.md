@@ -5,16 +5,16 @@ location: Hamilton College
 
 summary: Spring 2026
 
-date: '2030-06-01T13:00:00Z'
+date: '2026-01-21T13:00:00Z'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-22T13:00:00Z'
+date: '2026-01-21T13:00:00Z'
 # date_end: '2030-06-01'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-22'
+publishDate: '2025-10-21'
 
 links:
   - icon: page
