@@ -1,5 +1,5 @@
 ---
-title: ECON-307: MONEY, BANKS, & THE ECONOMY
+title: ECON 307: MONEY, BANKS, & THE ECONOMY
 
 location: Hamilton College
 
