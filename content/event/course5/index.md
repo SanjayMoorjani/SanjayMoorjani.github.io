@@ -1,7 +1,7 @@
 ---
 title: ECON 285 Macroeconomic Theory 
 
-location: Boston College
+location: Hamilton College
 
 summary: Spring 2026
 
