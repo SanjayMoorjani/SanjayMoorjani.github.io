@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "submitted!"
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: This paper proposes decomposing macroeconomic fluctuations into three components based on their contributions at different frequencies, to study the sources of business cycles. The first component explains business cycle fluctuations but has no long-run effect; the second has both; the third only long-run effects. The first two components jointly explain 99% of business cycle fluctuations and deliver comovementsconsistent with a structural interpretation as demand and technology shocks, respectively. The third component’s presence biases full-information estimation of business cycle models, distorting conclusions about the sources of business cycles. Estimating a model to match only business-cycle shocks resolves this issue and yields parameter estimates that are consistent with microeconomic evidence. The results also highlight the role of nominal wage rigidities in the expansionary impact of technology shocks on business cycles.
