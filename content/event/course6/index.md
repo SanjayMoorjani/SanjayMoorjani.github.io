@@ -1,10 +1,9 @@
 ---
 title: ECON 307 Money, Banks, & The Economy
 
-location: Hamilton College, Boston College
+location: Hamilton College
 
-summary: Spring 2026, Spring 2025, Fall 2024, Summer 2024, Spring 2024, Fall 2023
-
+summary: Spring 2026
 date: '2026-01-21T13:00:00Z'
 
 # Talk start and end times.
