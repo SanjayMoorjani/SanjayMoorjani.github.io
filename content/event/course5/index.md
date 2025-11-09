@@ -1,9 +1,10 @@
 ---
 title: ECON 285 Macroeconomic Theory 
 
-location: Hamilton College
+location: Hamilton College, Boston College
 
-summary: Spring 2026
+summary: Spring 2026, Spring 2025, Fall 2024, Summer 2024, Spring 2024, Fall 2023
+
 
 date: '2026-01-21T13:00:00Z'
 
