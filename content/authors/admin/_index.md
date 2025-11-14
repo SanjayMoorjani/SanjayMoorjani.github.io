@@ -33,7 +33,7 @@ bio: My research interests include Macroeconomics and Monetary Economics.
 interests:
   - Macroeconomics
   - Monetary Economics
-  - Econometrics
+  - Time Series Econometrics
 
 # Education to show in About widget
 education:
@@ -65,4 +65,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a macroeconomist with both theoretical and empirical interests, focusing on the identification of business cycle drivers and the role of fiscal and monetary policies in stabilizing recessions.
+I am a macroeconomist with research interests in the role of technological changes in driving business cycles and on the roles of fiscal and monetary policies in stabilizing recessions. My research approach puts a strong emphasis on identification using structural VAR methods and on estimation methods of macroeconomic models to better understand the underlying mechanisms for conducting counterfactual policy analysis.
+
+I am on the 2025-26 Job Market.
