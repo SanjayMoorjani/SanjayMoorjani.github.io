@@ -65,6 +65,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a macroeconomist with research interests in the role of technological changes in driving business cycles and on the roles of fiscal and monetary policies in stabilizing recessions. My research approach puts a strong emphasis on identification using structural VAR methods and on estimation methods of macroeconomic models to better understand the underlying mechanisms for conducting counterfactual policy analysis.
+I am a macroeconomist with research interests in the identification of technological changes in driving business cycles and on the roles of fiscal and monetary policies in stabilizing recessions. 
 
 I am on the 2025-26 Job Market.
