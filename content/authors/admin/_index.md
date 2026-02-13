@@ -66,5 +66,3 @@ email: ''
 highlight_name: true
 ---
 I am a macroeconomist with research interests in the identification of technological changes in driving business cycles and on the roles of fiscal and monetary policies in stabilizing recessions. 
-
-I am on the 2025-26 Job Market.
