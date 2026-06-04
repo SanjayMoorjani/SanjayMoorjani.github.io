@@ -14,17 +14,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Visiting Assistant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hamilton College
-    url: https://www.hamilton.edu/academics/departments/faculty?dept=economics
+  - name: University of Wisconsin - Stevens Point
+    url: [https://www.hamilton.edu/academics/departments/faculty?dept=economics](https://www.uwsp.edu/sentry-school-of-business-and-economics/)
 
 # Contact
 contact:
-  - name: moorjani@bc.edu
-    url: https://www.hamilton.edu/academics/departments/faculty?dept=economics
+  - name: smoorjan@uwsp.edu
+    url: [https://www.hamilton.edu/academics/departments/faculty?dept=economics](https://www.uwsp.edu/sentry-school-of-business-and-economics/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics and Monetary Economics.
