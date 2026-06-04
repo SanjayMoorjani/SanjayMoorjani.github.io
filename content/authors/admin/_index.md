@@ -19,12 +19,12 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Wisconsin - Stevens Point
-    url: [https://www.hamilton.edu/academics/departments/faculty?dept=economics](https://www.uwsp.edu/sentry-school-of-business-and-economics/)
+    url: https://www.uwsp.edu/sentry-school-of-business-and-economics/
 
 # Contact
 contact:
   - name: smoorjan@uwsp.edu
-    url: [https://www.hamilton.edu/academics/departments/faculty?dept=economics](https://www.uwsp.edu/sentry-school-of-business-and-economics/)
+    url: https://www.uwsp.edu/sentry-school-of-business-and-economics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics and Monetary Economics.
